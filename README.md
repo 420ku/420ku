@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-![](https://img.shields.io/github/followers/your-username?label=Profile%20Views&style=social)
+![](https://hit.yhype.me/github/profile?user_id=125331974)
 
 
 <!--
