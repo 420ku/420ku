@@ -4,7 +4,7 @@
 <!--
 **420ku/420ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://hit.yhype.me/github/profile?user_id=125331974)
+![](https://komarev.com/ghpvc/?username=420ku)
 
 Here are some ideas to get you started:
 
