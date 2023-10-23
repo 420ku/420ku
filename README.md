@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=420ku&show_icons=true&theme=transparent&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
-### Hi there 👋
+
+ Hi! I'm Noel
 ![image title](https://rushter.com/counter.svg)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
