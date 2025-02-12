@@ -2,7 +2,7 @@
  Hi! I'm Noel
 <br>
 <br>
-👨‍💻 Myy projects are available at https://portfolio-26d8b.firebaseapp.com/
+👨‍💻 My projects are available at https://portfolio-26d8b.firebaseapp.com/
 <br>
 <br>
 👨‍💻 My Languages and Tools:<br>
