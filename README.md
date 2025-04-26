@@ -28,9 +28,26 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)<br>
+   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+   ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
+   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+   ![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)
+   ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+   ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+   ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
+   ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
+   ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+   ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
+   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+   ![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)
+   <br>
    <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=420ku&layout=compact)
+
 <!--
 **420ku/420ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
